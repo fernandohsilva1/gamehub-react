@@ -5,7 +5,7 @@ Este projeto funcional utiliza uma API para exibir os jogos que você mais gosta
 
 ## Projeto em Tempo Real
 
-<a href="https://gamehub-react-sage.vercel.app/">Clique aqui</a> para ver o projeto no ar!
+<a href="https://gamehub-psi.vercel.app/">Clique aqui</a> para ver o projeto no ar!
 
 ![GIF do Projeto](src/img/gamehub.gif)
 
@@ -21,7 +21,7 @@ Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 1. Clone o repositório:
 https://github.com/fernandohsilva1/game-react.git
 
-2. Entre no diretório do projeto:
+2. Entre no diretório do projeto
 
 3. Instale as dependências:
 
