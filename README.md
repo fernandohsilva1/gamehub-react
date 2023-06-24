@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 ## Instalação
 
 1. Clone o repositório:
-https://github.com/fernandohsilva1/game-react.git
+https://github.com/fernandohsilva1/gamehub-react.git
 
 2. Entre no diretório do projeto
 
